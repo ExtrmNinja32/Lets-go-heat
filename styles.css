@@ -42,7 +42,7 @@ body {
     border-radius: 50% 50% 0 0;
     position: absolute;
     animation: flicker 1s infinite alternate, rise 1s infinite linear;
-    top: 20%; /* Positioned above the text */
+    top: 10%; /* Positioned above the text */
     left: 50%; /* Center flame horizontally above the text */
     transform: translateX(-50%); /* Center the flame */
 }
